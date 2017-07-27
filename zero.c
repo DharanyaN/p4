@@ -8,9 +8,9 @@ if(a=0)
 {
 printf("the number is zero");
 }
-elseif(a>0)
+else if(a>0)
 {
-printf(""the number is positive");
+printf("the number is positive");
 }
 else
 {
