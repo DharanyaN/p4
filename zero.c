@@ -5,15 +5,15 @@ int a;
 printf("Enter the number");
 scanf("%d",&a);
 if(a=0)
-{
-printf("the number is zero");
-}
+
+  printf("the number is zero");
+
 else if(a>0)
 {
-printf("the number is positive");
+  printf("the number is positive");
 }
 else
-{
-printf("the number is negative");
-}
+
+  printf("the number is negative");
+
 }
